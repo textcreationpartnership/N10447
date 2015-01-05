@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013245_0000_0F8FB51D88628BA0"/>
-            <pb facs="tcp:013245_0001_0F9044290D11E6C8" rendition="simple:additions"/>
+            <pb facs="unknown:013245_0000_0F8FB51D88628BA0"/>
+            <pb facs="unknown:013245_0001_0F9044290D11E6C8"
+                rendition="simple:additions"/>
             <p>A DIALOGUE, BETWEEN A Southern Delegate, AND HIS SPOUSE, ON HIS RETURN FROM The Grand Continental Congreſs.</p>
             <p>A FRAGMENT, INSCRIBED To the MARRIED LADIES of <hi>America,</hi> By their moſt ſincere, And affectionate Friend, And Servant, MARY V. V.</p>
             <p>Printed in the Year M, DCC, LXXIV.</p>
@@ -126,7 +127,7 @@
       </front>
       <body>
          <div type="dialogue">
-            <pb facs="tcp:013245_0002_0F8FB51E54291E18"/>
+            <pb facs="unknown:013245_0002_0F8FB51E54291E18"/>
             <head>A <hi>DIALOGUE,</hi> &amp;c.</head>
             <sp>
                <speaker>WIFE.</speaker>
@@ -140,7 +141,7 @@
                <l>Don't delight ſo in ſcolding yourſelf out of Breath;</l>
                <l>To the Neighbours 'tis Sport, but to me it is Death.</l>
                <l>
-                  <pb n="4" facs="tcp:013245_0003_0F8FB51EF65C3E98"/>I ſubmit for Peace ſake, to be led by the Noſe;</l>
+                  <pb n="4" facs="unknown:013245_0003_0F8FB51EF65C3E98"/>I ſubmit for Peace ſake, to be led by the Noſe;</l>
                <l>Don't make the World think that we're come to Blows:</l>
                <l>If once but a Crotchet in your Head you have got,</l>
                <l>For your Huſband's Advice, Ma'm, you care not a Groat.</l>
@@ -164,7 +165,7 @@
                <l>You miſtook me, my Dear, I did not pretend,</l>
                <l>Every Meaſure of Congreſs, right or wrong to defend;</l>
                <l>
-                  <pb n="5" facs="tcp:013245_0004_0F8FB5204D0EB278"/>Many Things they've left undone, they ſhou'd ſurely have done,</l>
+                  <pb n="5" facs="unknown:013245_0004_0F8FB5204D0EB278"/>Many Things they've left undone, they ſhou'd ſurely have done,</l>
                <l>Many Things they have done, they ſhou'd have ſure let alone:</l>
                <l>The — <hi>Suffolk</hi> — Appro<g ref="char:EOLhyphen"/>bation,</l>
                <l>—</l>
@@ -189,7 +190,7 @@
                <l>God bleſs us, and keep us! why, my Deareſt, till now,</l>
                <l>I ne'er heard you ſo wiſe, or ſo witty, I vow;</l>
                <l>
-                  <pb n="6" facs="tcp:013245_0005_0F8FB52076CC32C0"/>I proteſt this ſame Congreſs's a very fine School;</l>
+                  <pb n="6" facs="unknown:013245_0005_0F8FB52076CC32C0"/>I proteſt this ſame Congreſs's a very fine School;</l>
                <l>A Man comes back a <hi>Chatham,</hi> who went there a Fool.</l>
             </sp>
             <sp>
@@ -213,7 +214,7 @@
                <l>That Horſe-laugh is all feign'd, with much better Grace,</l>
                <l>You know Ma'm, you cou'd hit me a Slap in the Face:</l>
                <l>
-                  <pb n="7" facs="tcp:013245_0006_0F8FB5214B22F7A8"/>Conſider, my Dear, you're a Woman of Faſhion,</l>
+                  <pb n="7" facs="unknown:013245_0006_0F8FB5214B22F7A8"/>Conſider, my Dear, you're a Woman of Faſhion,</l>
                <l>'Tis really indecent to be in ſuch Paſſion;</l>
                <l>Mind thy Houſhold-Affairs, teach thy Chil<g ref="char:EOLhyphen"/>dren to read,</l>
                <l>And never, Dear, with Politics, trouble thy Head.</l>
@@ -235,7 +236,7 @@
                <l>And born all with Talents every Station to fill,</l>
                <l>Noble Proofs you've given! no doubt, of your Skill:</l>
                <l>
-                  <pb n="8" facs="tcp:013245_0007_0F8FB521F63CAC90"/>Wou'd! inſtead of Delegates, they'd ſent De<g ref="char:EOLhyphen"/>legates Wives;</l>
+                  <pb n="8" facs="unknown:013245_0007_0F8FB521F63CAC90"/>Wou'd! inſtead of Delegates, they'd ſent De<g ref="char:EOLhyphen"/>legates Wives;</l>
                <l>Heavens! we cou'dn't have bungled it ſo for our Lives!</l>
                <l>If you had even conſulted the Boys of a School,</l>
                <l>Believe me, Love, you cou'd not have play'd ſo the Fool.</l>
@@ -254,7 +255,7 @@
                <l>Next Congreſs, my Empreſs, ſha'l be made Preſident.</l>
             </sp>
             <sp>
-               <pb n="9" facs="tcp:013245_0008_0F8FB522EB31B570"/>
+               <pb n="9" facs="unknown:013245_0008_0F8FB522EB31B570"/>
                <speaker>WIFE.</speaker>
                <l>I have ſaid it, my Dear, and I'll ſay it again,</l>
                <l>That your famous Congreſs were a ſtrange ſet of men:</l>
@@ -277,7 +278,7 @@
                <p>Pſha! for God's Sake, what Hazard of that do I run?</p>
             </sp>
             <sp>
-               <pb n="10" facs="tcp:013245_0009_0F8FB5236AF37008"/>
+               <pb n="10" facs="unknown:013245_0009_0F8FB5236AF37008"/>
                <speaker>WIFE.</speaker>
                <l>Pſha, on, but beware, Dear, that you are not undone;</l>
                <l>'Twou'd ſoon break my Heart, tho' we do now and then jar,</l>
@@ -300,7 +301,7 @@
                <l>Uſurpation rear'd its head, from that fatal Hour,</l>
                <l>You reſolv'd, you enacted, like a ſovereign Pow'r.</l>
                <l>
-                  <pb n="11" facs="tcp:013245_0010_0F8FB525CFA59D80"/>Acts, tho' not enjoin'd, on Pain of Gibbets, and Flames,</l>
+                  <pb n="11" facs="unknown:013245_0010_0F8FB525CFA59D80"/>Acts, tho' not enjoin'd, on Pain of Gibbets, and Flames,</l>
                <l>Diſobey'd, at the Price, of our Fortunes, and Fames.</l>
                <l>Your Non-Imports, and Exports, are full fraught with Ruin,</l>
                <l>Of thouſands, and thouſands, the utter Un<g ref="char:EOLhyphen"/>doing:</l>
@@ -320,7 +321,7 @@
                <l>Inſtead of imploring, their Juſtice, or Pity,</l>
                <l>You treat Parliament, like a Pack, of Banditti;</l>
                <l>
-                  <pb n="12" facs="tcp:013245_0011_0F8FB52721A9DBE0"/>Inſtead of Addreſſes, fram'd on Truth, and on Reaſon,</l>
+                  <pb n="12" facs="unknown:013245_0011_0F8FB52721A9DBE0"/>Inſtead of Addreſſes, fram'd on Truth, and on Reaſon,</l>
                <l>They breathe nothing, but Inſult, Rebellion, and Treaſon;</l>
                <l>Inſtead of attempting, our Intereſts to further,</l>
                <l>You bring down, on our Heads<g ref="char:punc">▪</g> Perdition, and Murder.</l>
@@ -343,7 +344,7 @@
                   <l>Your Aſſociation, big with rank Tyranny.</l>
                   <l>Its hardly worth ones while, to ſhow Indig<g ref="char:EOLhyphen"/>nation</l>
                   <l>
-                     <pb n="13" facs="tcp:013245_0012_0F8FB527336764B0"/>At that fooliſh Bugbear, your Non-Impor<g ref="char:EOLhyphen"/>tation;</l>
+                     <pb n="13" facs="unknown:013245_0012_0F8FB527336764B0"/>At that fooliſh Bugbear, your Non-Impor<g ref="char:EOLhyphen"/>tation;</l>
                   <l>For Men do ſo hunger, and ſo thirſt, after Pelf.</l>
                   <l>That when thouſands are ſtarv'd, 'twill blow up, of itſelf.</l>
                   <l>You have read a great deal,—with patient Reflection,</l>
@@ -362,7 +363,7 @@
                   <l>Let Fools, Pedants, and Huſbands, continue to hate</l>
                   <l>The Advice of us Women, and call it all Prate:</l>
                   <l>
-                     <pb n="14" facs="tcp:013245_0013_0F904429C60B5918"/>Whilſt you are in Danger, by your good Leave, my Dear,</l>
+                     <pb n="14" facs="unknown:013245_0013_0F904429C60B5918"/>Whilſt you are in Danger, by your good Leave, my Dear,</l>
                   <l>Both by Night and by Day, I will ring in your Ear—</l>
                   <l>Make your Peace:—Fear the King:—The Parliament fear.</l>
                </lg>
